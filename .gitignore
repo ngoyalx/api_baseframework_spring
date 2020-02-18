@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Allure-Results ###
+allure-results/
+allure-report/
+
+### Misc ###
+target/
